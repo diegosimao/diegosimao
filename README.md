@@ -20,10 +20,7 @@ Data & Business Intelligence:
 <p> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI Badge"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"> </p>
 
 🚀   My Projects:
-(This is where your amazing projects will go! Once you provide the details, I'll format them beautifully with descriptions, technologies, and links. )
 
-📈   GitHub Stats:
-(I'll add your GitHub stats here, similar to the example, once I have your GitHub username.)
 
 📫   Let's Connect!
 <p> <a href="https://www.linkedin.com/in/diegoandradesimao"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> </p>
